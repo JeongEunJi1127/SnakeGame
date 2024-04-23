@@ -1,0 +1,14 @@
+C:\Users\JeongEunJi\Desktop\TeamSparta\C#Studying\assignment3\SnakeGame\SnakeGame\bin\Debug\net8.0\SnakeGame.exe
+C:\Users\JeongEunJi\Desktop\TeamSparta\C#Studying\assignment3\SnakeGame\SnakeGame\bin\Debug\net8.0\SnakeGame.deps.json
+C:\Users\JeongEunJi\Desktop\TeamSparta\C#Studying\assignment3\SnakeGame\SnakeGame\bin\Debug\net8.0\SnakeGame.runtimeconfig.json
+C:\Users\JeongEunJi\Desktop\TeamSparta\C#Studying\assignment3\SnakeGame\SnakeGame\bin\Debug\net8.0\SnakeGame.dll
+C:\Users\JeongEunJi\Desktop\TeamSparta\C#Studying\assignment3\SnakeGame\SnakeGame\bin\Debug\net8.0\SnakeGame.pdb
+C:\Users\JeongEunJi\Desktop\TeamSparta\C#Studying\assignment3\SnakeGame\SnakeGame\obj\Debug\net8.0\SnakeGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JeongEunJi\Desktop\TeamSparta\C#Studying\assignment3\SnakeGame\SnakeGame\obj\Debug\net8.0\SnakeGame.AssemblyInfoInputs.cache
+C:\Users\JeongEunJi\Desktop\TeamSparta\C#Studying\assignment3\SnakeGame\SnakeGame\obj\Debug\net8.0\SnakeGame.AssemblyInfo.cs
+C:\Users\JeongEunJi\Desktop\TeamSparta\C#Studying\assignment3\SnakeGame\SnakeGame\obj\Debug\net8.0\SnakeGame.csproj.CoreCompileInputs.cache
+C:\Users\JeongEunJi\Desktop\TeamSparta\C#Studying\assignment3\SnakeGame\SnakeGame\obj\Debug\net8.0\SnakeGame.dll
+C:\Users\JeongEunJi\Desktop\TeamSparta\C#Studying\assignment3\SnakeGame\SnakeGame\obj\Debug\net8.0\refint\SnakeGame.dll
+C:\Users\JeongEunJi\Desktop\TeamSparta\C#Studying\assignment3\SnakeGame\SnakeGame\obj\Debug\net8.0\SnakeGame.pdb
+C:\Users\JeongEunJi\Desktop\TeamSparta\C#Studying\assignment3\SnakeGame\SnakeGame\obj\Debug\net8.0\SnakeGame.genruntimeconfig.cache
+C:\Users\JeongEunJi\Desktop\TeamSparta\C#Studying\assignment3\SnakeGame\SnakeGame\obj\Debug\net8.0\ref\SnakeGame.dll
